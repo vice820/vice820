@@ -1,37 +1,48 @@
-<h1 align="center">┌──(vice820㉿github)-[~]</h1>
-<p align="center"><code>└─$ whoami</code></p>
+<div align="center">
 
-```text
-vice820 — Ciberseguridad | Redes | Automatización
-```
+# vice820
 
-<p align="center"><code>└─$ cat about.md</code></p>
+**Ciberseguridad · Redes · Automatización**
 
-```yaml
-rol:        ....
-sistema:    Linux (por convicción)
-shell:      bash
-enfoque:    [ciberseguridad, redes, automatización]
-hobby:      Armar herramientas y wikis propias
-estado:     aprendiendo... 60%
-```
+*Linux por convicción. Armando herramientas y wikis propias.*
 
-<p align="center"><code>└─$ ls ~/stack</code></p>
+![Estado](https://img.shields.io/badge/estado-aprendiendo_60%25-8957e5?style=flat-square)
+![Sistema](https://img.shields.io/badge/OS-Linux-1a1b27?style=flat-square&logo=linux&logoColor=white)
+![Shell](https://img.shields.io/badge/shell-bash-1a1b27?style=flat-square&logo=gnubash&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff41" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=00ff41" alt="Ubuntu"/>
-  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00ff41" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff41" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff41" alt="Git"/>
-  <img src="https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge&logo=cloudflare&logoColor=00ff41" alt="Cloudflare"/>
-</p>
+</div>
 
-<p align="center"><code>└─$ git log --stats</code></p>
+---
+
+### 🎯 Enfoque
+
+| Área | Qué hago |
+|------|----------|
+| 🔐 Ciberseguridad | Aprendo pentesting, hardening y buenas prácticas |
+| 🌐 Redes | Protocolos, servicios y configuración |
+| ⚙️ Automatización | Scripts en Bash para simplificar tareas |
+| 📚 Wikis | Documento lo que aprendo en mis propias wikis |
+
+### 🧰 Stack
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vice820&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="Stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vice820&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Lenguajes"/>
+  <img src="https://img.shields.io/badge/Linux-8957e5?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Ubuntu-8957e5?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/Bash-8957e5?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Docker-8957e5?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-8957e5?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Cloudflare-8957e5?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
 </p>
 
-<p align="center"><code>└─$ echo "Compilando conocimiento..." ▮</code></p>
+### 📈 Actividad
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vice820&show_icons=true&theme=radical&hide_border=true" alt="Stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vice820&layout=compact&theme=radical&hide_border=true" alt="Lenguajes"/>
+</p>
+
+<div align="center">
+
+*"Compilando conocimiento..."* 🚀
+
+</div>
