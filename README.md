@@ -1,31 +1,37 @@
-# 🖥️ `neofetch`
+<h1 align="center">┌──(vice820㉿github)-[~]</h1>
+<p align="center"><code>└─$ whoami</code></p>
 
 ```text
-vice820@github
---------------
-Rol        : Estudiante de ciberseguridad
-Sistema    : Linux (por convicción)
-Terminal   : bash
-Intereses  : Ciberseguridad, redes, automatización
-Hobby      : Armar herramientas y wikis propias
-Estado     : Compilando conocimiento... [██████░░░░] 60%
+vice820 — Ciberseguridad | Redes | Automatización
 ```
 
-# 🔧 `cat stack.txt`
+<p align="center"><code>└─$ cat about.md</code></p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-1a1b27?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Ubuntu-1a1b27?style=flat-square&logo=ubuntu&logoColor=E95420" alt="Ubuntu"/>
-  <img src="https://img.shields.io/badge/Bash-1a1b27?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Docker-1a1b27?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-1a1b27?style=flat-square&logo=git&logoColor=F05032" alt="Git"/>
-  <img src="https://img.shields.io/badge/Cloudflare-1a1b27?style=flat-square&logo=cloudflare&logoColor=F38020" alt="Cloudflare"/>
-</p>
-
-# 📊 `git stats`
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vice820&show_icons=true&theme=dark&hide_border=true" alt="Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vice820&layout=compact&theme=dark&hide_border=true" alt="Lenguajes"/>
-</p>
+```yaml
+rol:        ....
+sistema:    Linux (por convicción)
+shell:      bash
+enfoque:    [ciberseguridad, redes, automatización]
+hobby:      Armar herramientas y wikis propias
+estado:     aprendiendo... 60%
 ```
+
+<p align="center"><code>└─$ ls ~/stack</code></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff41" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=00ff41" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00ff41" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff41" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff41" alt="Git"/>
+  <img src="https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge&logo=cloudflare&logoColor=00ff41" alt="Cloudflare"/>
+</p>
+
+<p align="center"><code>└─$ git log --stats</code></p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vice820&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="Stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vice820&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Lenguajes"/>
+</p>
+
+<p align="center"><code>└─$ echo "Compilando conocimiento..." ▮</code></p>
